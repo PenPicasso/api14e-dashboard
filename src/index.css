@@ -1,0 +1,9 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { 
+  background: #020c1b; 
+  font-family: 'IBM Plex Mono', 'Courier New', monospace;
+  overflow: hidden;
+}
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: #020c1b; }
+::-webkit-scrollbar-thumb { background: #1e3a5f; border-radius: 2px; }
